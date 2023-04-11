@@ -98,7 +98,7 @@
   "eslint.codeAction.showDocumentation": {
     "enable": true
   },
-  "eslint.quiet": true,
+  "eslint.quiet": false,
   "eslint.validate": [
     "javascript",
     "typescript",
@@ -120,8 +120,6 @@
   "cSpell.allowCompoundWords": true,
   "cSpell.language": "en,en-US",
   "css.lint.hexColorLength": "ignore",
-  "githubIssues.workingIssueFormatScm": "#${issueNumberLabel}",
-  "githubPullRequests.fileListLayout": "tree",
   "prettier.enable": false, // I only use Prettier for manually formatting
   "prettier.printWidth": 180,
   "prettier.semi": false,
