@@ -16,7 +16,7 @@
   "editor.renderWhitespace": "boundary",
   "editor.suggestSelection": "first",
   "editor.unicodeHighlight.invisibleCharacters": false,
-  "editor.stickyScroll.enabled": true,
+  "editor.stickyScroll.enabled": false,
   "editor.hover.sticky": true,
   "editor.lineHeight": 24,
   "editor.wordWrap": "on",
